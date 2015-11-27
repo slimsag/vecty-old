@@ -5,8 +5,8 @@ import (
 	"time"
 
 	"github.com/gopherjs/gopherjs/js"
-	"github.com/vecty/dom"
-	"github.com/vecty/dom/example/shared"
+	"runa.ninja/vecty/dom"
+	"runa.ninja/vecty/dom/example/shared"
 )
 
 func main() {

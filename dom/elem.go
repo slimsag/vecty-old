@@ -6,7 +6,7 @@ import (
 	"io"
 	"strings"
 
-	"github.com/vecty/dom/unsafe"
+	"runa.ninja/vecty/dom/unsafe"
 )
 
 // Op is a DOM operation of any sort.

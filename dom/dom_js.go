@@ -8,7 +8,7 @@ import (
 	"reflect"
 
 	"github.com/gopherjs/gopherjs/js"
-	"github.com/vecty/dom/unsafe"
+	"runa.ninja/vecty/dom/unsafe"
 )
 
 // Apply applies the changes between the old DOM and new DOM directly to the

@@ -7,8 +7,8 @@ import (
 	"os"
 	"path"
 
-	"github.com/vecty/dom"
-	"github.com/vecty/dom/example/shared"
+	"runa.ninja/vecty/dom"
+	"runa.ninja/vecty/dom/example/shared"
 )
 
 // TODO: cleanup, separate package

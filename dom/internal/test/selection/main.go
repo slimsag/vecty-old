@@ -5,7 +5,7 @@ import (
 	"time"
 
 	"github.com/gopherjs/gopherjs/js"
-	"github.com/vecty/dom/internal/selection"
+	"runa.ninja/vecty/dom/internal/selection"
 )
 
 func main() {

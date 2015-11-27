@@ -3,8 +3,8 @@ package shared
 import (
 	"fmt"
 
-	v "github.com/vecty/dom"
-	"github.com/vecty/dom/unsafe"
+	v "runa.ninja/vecty/dom"
+	"runa.ninja/vecty/dom/unsafe"
 )
 
 type Page struct {
